@@ -1,0 +1,2 @@
+# omikuji
+DMM WEBCAMP WEBアプリケーション開発コース（選考コンテンツ）の課題です。
